@@ -1,0 +1,21 @@
+# --- Binarios y Compilación (C++) ---
+build/
+vdrifter
+
+# --- Temporales y Logs ---
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.dat
+
+# --- Comprimidos ---
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
+# --- IDEs ---
+.vscode/
+.idea/
