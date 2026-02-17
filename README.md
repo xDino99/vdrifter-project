@@ -56,7 +56,7 @@ make clean
 
 ```bash
 make
-``
+```
 
 ### 3. Ejecución
 
