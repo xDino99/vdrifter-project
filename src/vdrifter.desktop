@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Void Drifter
+Comment=ASCII Bullet-Hell Survival Game
+GenericName=Terminal Game
+Exec=
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Game;ActionGame;
+Keywords=ascii;bullet-hell;space;shooter;
+StartupNotify=false

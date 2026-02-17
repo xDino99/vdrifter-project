@@ -9,6 +9,7 @@ vdrifter
 *.bak
 *.swp
 *.dat
+*.o
 
 # --- Comprimidos ---
 *.zip

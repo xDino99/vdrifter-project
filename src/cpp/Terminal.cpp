@@ -1,4 +1,4 @@
-#include "Terminal.h"
+#include "../header/Terminal.h"
 #include <fcntl.h>
 
 Terminal::Terminal() {
