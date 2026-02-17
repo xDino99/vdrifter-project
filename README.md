@@ -51,8 +51,12 @@ Asegúrate de tener todos los archivos `.h` y `.cpp` en la misma carpeta.
 Este comando genera un binario estático que incluye todas las librerías necesarias, lo que lo hace compatible incluso en versiones antiguas de Linux:
 
 ```bash
-g++ -O3 -std=c++17 -static -s main.cpp Game.cpp Terminal.cpp -o vdrifter
+make clean
 ```
+
+```bash
+make
+``
 
 ### 3. Ejecución
 
